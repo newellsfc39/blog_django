@@ -1,2 +1,2 @@
-# personal_blog
-my personal blog to develop my skills and share what I am learning day/week to day/week
+# blog_django
+a personal blog to develop skills and discuss what I am learning day/week to day/week
